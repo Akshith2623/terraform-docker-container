@@ -5,19 +5,22 @@ This project provisions a local Docker container running Nginx using Terraform.
 
 ## Commands Used
 - `terraform init`
- <img width="1918" height="930" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/de3e3382-b829-487f-9f76-60775ac066c0" />
+ <img width="1920" height="970" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/9baecf40-0f71-4b40-8190-65d7e329d53f" />
+
 
 
 - `terraform plan`
- <img width="1918" height="930" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/d800a81a-dee1-4208-a006-b39ceb22f8c5" />
+ <img width="1920" height="968" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/d2302262-72a2-4fc2-8c44-301d41a3c9b8" />
+
 
 
 - `terraform apply`
- <img width="1918" height="930" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/052d8b63-0dcc-459f-893e-930ebc30b47b" />
+<img width="1920" height="962" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/32043349-c63a-428b-861d-cb4c14130ace" />
+
 
 
 - `terraform destroy`
- <img width="1918" height="930" alt="Screenshot (419)" src="https://github.com/user-attachments/assets/eda98ddd-71e4-4f57-8e9e-3c0b04b3eed1" />
+<img width="1920" height="972" alt="Screenshot (419)" src="https://github.com/user-attachments/assets/6a9d71a9-1148-426b-8e5f-594795c3d674" />
 
 
 ## Output
